@@ -1,0 +1,25 @@
+/*******************tag selectors**************/
+
+h1{
+  color:red;
+  font-size: 40px;
+}
+img{
+background-color:red;
+}
+
+/**********************class selectors*************/
+.lassi{
+  background-color: red;
+}
+.brocolli:hover{
+  background-color: gold;
+}
+.circular{
+  border-radius: 100%;
+}
+
+/*********************id selector********/
+#heading{
+  color: blue;
+}
